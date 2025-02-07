@@ -19,7 +19,7 @@
 
 on: https://extrateredtrial-enterprises.com/cgi-bin/index.cgi
   push: `-git request pull -a@dependabot merge` `git commit `-a@ETEnterprises1
-    branches: [ "main" ]
+    branches: [ "Orpheusangels33" ]
   workflow_dispatch: actions/attest-build-provenance
 Public-Good Sigstore Prober GitHub Sigstore Prober
 
